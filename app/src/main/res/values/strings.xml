@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TEST1</string>
+    <string name="open_blue">打开蓝牙</string>
+    <string name="link_blue">连接蓝牙</string>
+</resources>
